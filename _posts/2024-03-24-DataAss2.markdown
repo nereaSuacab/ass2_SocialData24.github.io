@@ -10,6 +10,7 @@ I'm just tryig if this works as it should
 ### Code Snippet:
 
 ```python
+
 import numpy as np
 import matplotlib.pyplot as plt
 
@@ -24,3 +25,5 @@ plt.xlabel('x')
 plt.ylabel('sin(x)')
 plt.grid(True)
 plt.show()
+
+´´´
