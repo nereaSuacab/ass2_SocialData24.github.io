@@ -26,8 +26,8 @@ description: >- # this means to ignore newlines until "baseurl:"
   Google search results) and in your feed.xml site description.
 baseurl: "/ass2_SocialData24.github.io" # the subpath of your site
 url: "https://nereasuacab.github.io" # the base hostname & protocol for your site
-twitter_username: jekyllrb
-github_username: jekyll
+# twitter_username: jekyllrb
+# github_username: jekyll
 
 # Build settings
 theme: minima
