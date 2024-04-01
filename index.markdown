@@ -23,3 +23,7 @@ Finally, a comparative assessment of the crime presence between the initial and 
 In reflection, the rise in this specific crime highlights the importance of taking proactive steps to address it. We could think of various factors that can drive to this increase, like easier access to alcohol, changes in how society sees certain behaviors or differences in how laws are enforced and monitored. It is important for authorities to investigate the root causes in order to reduce the number of offenses and create safer environments.
 
 <iframe src="images/scatter_plot.html" width="100%" height="500px"></iframe>
+
+## Map 
+
+<iframe src="images/crim_map_2013.html" width="100%" height="500px"></iframe>
