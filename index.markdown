@@ -26,5 +26,7 @@ Finally, a comparative assessment of the crime presence between the initial and 
 
 In reflection, the decline of this specific crime highlights the importance of taking proactive steps to address it. We could think of various factors that can drive to this decrease, like changes in societal attitudes towards alcohol, stricter enforcement of laws, and increased education on responsible drinking. It is important for authorities that, even though the prevalence of this crime decreased over the years, keep doing what they are doing to keep or even reduce more the number of offenses and create safer environments.
 
+We also wanted to understand if this crime is related to other crimes that involve alcohol and drug consumtion. Therefore, an interactive scatter plot with three other incidents was created in *Figure 3* to see how their frecuencies evolve over day-time. Comparing the results, it can be observed, that even though the sexual battery frequency doesn't have big changes during the day, the highest incidences of the four crimes agree at night and early morning hours. This fact confirms too what it was stated after generating the graphs of *Figure 1*. 
+
 <iframe src="images/scatter_plot.html" width="100%" height="500px"></iframe>
-*Figure 3:*
+*Figure 3: Scatter plot with the frequency of different crimes over the hours of the day*
