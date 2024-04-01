@@ -25,3 +25,7 @@ The decline in public intoxication incidents observed over time may be attribute
 In reflection, the decline of this specific crime highlights the importance of taking proactive steps to address it. We could think of various factors that can drive to this decrease, like changes in societal attitudes towards alcohol, stricter enforcement of laws, and increased education on responsible drinking. It is important for authorities that, even though the prevalence of this crime decreased over the years, keep doing what they are doing to keep or even reduce more the number of offenses and create safer environments.
 
 <iframe src="images/scatter_plot.html" width="100%" height="500px"></iframe>
+
+## Map 
+
+<iframe src="images/crime_map_2013.html" width="100%" height="500px"></iframe>
