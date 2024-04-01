@@ -12,7 +12,7 @@ The main goal of this study is to analyze a dataset that contains crime reports 
 
 Our foucs is on the crime category of "UNDER INFLUENCE OF ALCOHOL IN A PUBLIC PLACE" since we would like to know how has evolved during the years and its presence during the week days and times of the day. In our opinion, since the incident is related with alcohol, we think that it might be more common during Fridays and Saturdays and at night. However, we should analyze the data to confirm these facts. Moreover, the location of where these crimes took place is also relevant.
 
-![Alt text](images/plot1.png)
+![Image Description](images/plot1.png "Figure caption test")
 
 In order to asses the prevalence of the specific chosen crime, we created a subplot of three different analyses. First of all, we wanted to know the presence of being in a public place under the influence of alcohol along the week. Given that social gatherings and festivities are more prevalent on weekends, we anticipated heightened alcohol consumption during these periods. Observing the bar plot, indeed validates this assumption revealing a higher occurrence of the crime on Saturdays and Sundays.
 
