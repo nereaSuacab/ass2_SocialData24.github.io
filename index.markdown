@@ -26,5 +26,5 @@ In reflection, the decline of this specific crime highlights the importance of t
 
 ## Map 
 
-<object data="images/crime_map_2013.html" width="100%" height="500px"></object>
+![Alt text](images/crime_map_2013.html)
 
