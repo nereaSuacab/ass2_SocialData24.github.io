@@ -26,4 +26,4 @@ In reflection, the rise in this specific crime highlights the importance of taki
 
 ## Map 
 
-<iframe src="images/crim_map_2013.html" width="100%" height="500px"></iframe>
+<iframe src="images/crime_map_2013.html" width="100%" height="500px"></iframe>
