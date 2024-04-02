@@ -18,8 +18,8 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title: Social Data Analysis and Visualization 2024
-email: s233132@dtu.dk
+title: Assignment 2 - Social Data Analysis and Visualization 2024
+email: s233132@dtu.dk / s233219@dtu.dk / s212246@dtu.dk
 description: >- # this means to ignore newlines until "baseurl:"
 baseurl: "/ass2_SocialData24.github.io" # the subpath of your site
 url: "https://nereasuacab.github.io" # the base hostname & protocol for your site
