@@ -10,7 +10,7 @@ title: Assignment 2
 
 The main goal of this study is to analyze a dataset that contains crime reports in San Francisco between the years 2003 and 2018. This dataset has different information that can be taken into account for the project. The essential details are the location, date and resolution. Therefore, with the wide range of incident cateogries and geographic coverage, it offers insights into long-term crime trends and patterns. 
 
-Our foucs is on the crime category of "UNDER INFLUENCE OF ALCOHOL IN A PUBLIC PLACE" since we would like to know how has evolved during the years and its presence during the week days and times of the day. In our opinion, since the incident is related with alcohol, we think that it might be more common during Fridays and Saturdays and at night. However, we should analyze the data to confirm these facts. Moreover, the location of where these crimes took place is also relevant.
+Our foucs is on the crime category of "UNDER INFLUENCE OF ALCOHOL IN A PUBLIC PLACE" since we would like to know how has evolved during the years and its presence during the week days and times of the day. In our opinion, since the incident is related with alcohol, we think that it might be more common during Fridays and Saturdays, and at night. However, we should analyze the data to confirm these facts. Moreover, the location of where these crimes took place is also relevant.
 
 ![Alt text](images/plot_1.png)
 
@@ -42,3 +42,6 @@ In reflection, the decline of this specific crime highlights the importance of t
 ## References
 
 [1] Office of Economic Analysis (2016). *Nightlife Industries in San Francisco: 2016 Update.* https://sfcontroller.org/sites/default/files/2016%20Nightlife%20Update.pdf 
+
+[2] Monique Merrill (2024). *San Francisco Considers Allowing People to Drink in the Streets*. The Messenger. https://www.msn.com/en-us/travel/article/san-francisco-considers-allowing-people-to-drink-in-the-streets/ar-BB1hz4x1?ocid=socialshare
+
