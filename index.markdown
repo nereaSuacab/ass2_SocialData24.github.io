@@ -8,7 +8,9 @@ title: Assignment 2
 
 ## Study of drinking alcohol in public places of San Francisco
 
-The main goal of this study is to analyze a dataset that contains crime reports in San Francisco between the years 2003 and 2018. This dataset has different information that can be taken into account for the project. The essential details are the location, date and resolution. Therefore, with the wide range of incident cateogries and geographic coverage, it offers insights into long-term crime trends and patterns. 
+In today's society, regardless of the country, a debate has arisen regarding whether drinking alcohol in public should be legalized, as is currently the case in Denmark, or conversely, whether it should be made illegal, as it is in Spain.
+
+Acording to [2], San Francisco has not been an exception so, the main goal of this study is to analyze a dataset that contains crime reports in San Francisco between the years 2003 and 2018. This dataset has different information that can be taken into account for the project. The essential details are the location, date and resolution. Therefore, with the wide range of incident cateogries and geographic coverage, it offers insights into long-term crime trends and patterns. 
 
 Our foucs is on the crime category of "UNDER INFLUENCE OF ALCOHOL IN A PUBLIC PLACE" since we would like to know how has evolved during the years and its presence during the week days and times of the day. In our opinion, since the incident is related with alcohol, we think that it might be more common during Fridays and Saturdays, and at night. However, we should analyze the data to confirm these facts. Moreover, the location of where these crimes took place is also relevant.
 
@@ -39,9 +41,21 @@ We also wanted to understand if this crime is related to other crimes that invol
 
 In reflection, the decline of this specific crime highlights the importance of taking proactive steps to address it. After investigating a bit about the nightlife in San Francisco, a study made in 2016 [1] confirmed that the amount of jobs in the nightlife sector increased exponentialy between the years 2010 and 2016. Therefore, this fact can be related with the decreased of the alcohol consumption in public spaces since people had more spaces where they could enjoy drinks because of these openings. Moreover, we thought that some changes in society due to a possible increased education on responsible drinking could influence this decline as well.
 
+In conclusion, and taking not only the data but also this study [1], legalizing drinking in the street may not be necessary, as existing measures have already proven effective in reducing this specific crime. 
+
 ## References
 
 [1] Office of Economic Analysis (2016). *Nightlife Industries in San Francisco: 2016 Update.* https://sfcontroller.org/sites/default/files/2016%20Nightlife%20Update.pdf 
 
 [2] Monique Merrill (2024). *San Francisco Considers Allowing People to Drink in the Streets*. The Messenger. https://www.msn.com/en-us/travel/article/san-francisco-considers-allowing-people-to-drink-in-the-streets/ar-BB1hz4x1?ocid=socialshare
+
+### **CONTRIBUTIONS**
+
+| Task                | Paula (s233219)  | Alessia (s212246) | Nerea (s233132)  |
+|---------------------|------------------|-------------------|------------------|
+| Web-page            |       X          |        X          |        X         |
+| First visualization |       X          |                   |                  |
+| Map visualization   |                  |        X          |                  |
+| Bokeh visualization |                  |                   |        X         |
+| Story               |       X          |        X          |        X         |
 
