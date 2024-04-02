@@ -12,7 +12,7 @@ The main goal of this study is to analyze a dataset that contains crime reports 
 
 Our foucs is on the crime category of "UNDER INFLUENCE OF ALCOHOL IN A PUBLIC PLACE" since we would like to know how has evolved during the years and its presence during the week days and times of the day. In our opinion, since the incident is related with alcohol, we think that it might be more common during Fridays and Saturdays and at night. However, we should analyze the data to confirm these facts. Moreover, the location of where these crimes took place is also relevant.
 
-![Alt text](images/plot1.png)
+![Alt text](images/plot_1.png)
 
 *Figure 1: Subplot with three graphs representing the number of incidents in a public space under influence of alcohol representation over different timelines.*
 
