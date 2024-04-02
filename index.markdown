@@ -32,10 +32,13 @@ It is evident that the **SOUTHERN DISTRICT** recorded the highest number of inci
 
 Indeed by plotting the pinhole point related to each case we find out that that most of them happend along the 6th street and in the SoMa neighbour. Several factors contribute to why the SoMa district might have a higher incidence of 'Under Influence of Alcohol in a Public Place' cases. SoMa is home to numerous bars, nightclubs, and entertainment venues, making it a popular destination for nightlife activities. The concentration of establishments serving alcohol increases the likelihood of incidents related to public intoxication and disorderly conduct
 
-
 We also wanted to understand if this crime is related to other crimes that involve alcohol and drug consumtion. Therefore, an interactive scatter plot with three other incidents was created in *Figure 3* to see how their frecuencies evolve over day-time. Comparing the results, it can be observed, that even though the sexual battery frequency doesn't have big changes during the day, the highest incidences of the four crimes agree at night and early morning hours. This fact confirms too what it was stated after generating the graphs of *Figure 1*. 
 
 <iframe src="images/scatter_plot.html" width="100%" height="500px"></iframe>
 *Figure 3: Scatter plot with the frequency of different crimes over the hours of the day*
 
-In reflection, the decline of this specific crime highlights the importance of taking proactive steps to address it. We could think of various factors that can drive to this decrease, like changes in societal attitudes towards alcohol, stricter enforcement of laws, and increased education on responsible drinking. It is important for authorities that, even though the prevalence of this crime decreased over the years, keep doing what they are doing to keep or even reduce more the number of offenses and create safer environments.
+In reflection, the decline of this specific crime highlights the importance of taking proactive steps to address it. After investigating a bit about the nightlife in San Francisco, a study made in 2016 [1] confirmed that the amount of jobs in the nightlife sector increased exponentialy between the years 2010 and 2016. Therefore, this fact can be related with the decreased of the alcohol consumption in public spaces since people had more spaces where they could enjoy drinks because of these openings. Moreover, we thought that some changes in society due to a possible increased education on responsible drinking could influence this decline as well.
+
+## References
+
+[1] Office of Economic Analysis (2016). *Nightlife Industries in San Francisco: 2016 Update.* https://sfcontroller.org/sites/default/files/2016%20Nightlife%20Update.pdf 
