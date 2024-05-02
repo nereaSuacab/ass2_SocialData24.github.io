@@ -59,3 +59,4 @@ In conclusion, and taking not only the data but also this study [1], legalizing 
 | Bokeh visualization |                  |                   |        X         |
 | Story               |       X          |        X          |        X         |
 
+Repo url: [Github Repository](https://github.com/nereaSuacab/ass2_SocialData24.github.io)
